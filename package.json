@@ -1,0 +1,9 @@
+{
+  "name": "remark-gatsby-plugins",
+  "version": "0.1.0",
+  "description": "A selection of remark and Gatsby plugins developed and used",
+  "main": "index.js",
+  "repository": "https://github.com/NickanBagherpour/remark-gatsby-plugins.git",
+  "author": "Nickan",
+  "license": "MIT"
+}
