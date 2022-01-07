@@ -1,5 +1,9 @@
 {
   "name": "remark-gatsby-plugins",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "version": "0.1.0",
   "description": "A selection of remark and Gatsby plugins developed and used",
   "main": "index.js",
