@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/NickanBagherpour/remark-gatsby-plugins.git",
   "author": "Nickan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
 }
